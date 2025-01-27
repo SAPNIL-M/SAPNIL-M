@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sapnil M</h1>
-<h3 align="center">A passHi, I'm an aspiring app developer with experience in building cross-platform mobile apps using Flutter. I also have a background in working on Arduino projects, where I integrate software with hardware. I'm passionate about exploring new technologies, solving problems, and contributing to open-source. Always eager to learn and collaborate, I'm excited to create innovative solutions. Let's build something awesome!ionate frontend developer from India</h3>
+<h3 align="center">Hi, I'm an aspiring app developer with experience in building cross-platform mobile apps using Flutter. I also have a background in working on Arduino projects, where I integrate software with hardware. I'm passionate about exploring new technologies, solving problems, and contributing to open-source. Always eager to learn and collaborate, I'm excited to create innovative solutions. Let's build something awesome!ionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapnil-m&label=Profile%20views&color=0e75b6&style=flat" alt="sapnil-m" /> </p>
 
